@@ -1,0 +1,15 @@
+.pagination{
+    margin: 15px 10px;
+}
+.pagination li{
+    margin-left: 10px;
+}
+
+.pagination button{
+    border-radius:4px; 
+    padding: 3px 10px;
+}
+.active {
+    background: #2b416f;
+    color: white;
+}

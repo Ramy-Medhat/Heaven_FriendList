@@ -1,0 +1,13 @@
+:local(.friendList) {
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.custom-label{
+  color:#fff;
+  text-align: center;
+  margin: 30px 0 0;
+  text-transform: capitalize;
+  font-style: italic;
+  font-size: 16px;
+}
